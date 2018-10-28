@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1b7db1a6_68b6e0ca",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1015254
+      },
+      "writtenOn": "2018-10-28T21:21:52Z",
+      "side": 1,
+      "message": "Looks nice",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 16
+      },
+      "revId": "ad2fb500fe48d8edbc60cc5eb4c6023bf9caae28",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
